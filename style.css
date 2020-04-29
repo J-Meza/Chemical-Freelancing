@@ -51,3 +51,18 @@ nav{
     border: 1px solid red;
     width: 3%;
 }
+
+.tel{
+    color: red;
+    font-weight: bold;
+}
+
+p{
+    margin-bottom: 0 !important;
+}
+
+.lineCon2{
+    border: 1px solid red;
+    width: 20%;
+    margin-left: 0;
+}
