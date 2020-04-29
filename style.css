@@ -36,3 +36,18 @@ nav{
     -webkit-align-items: center;
     align-items: center;
 }
+
+.Contact{
+    background-color: #D3D4DA;
+    height: 100%;
+    padding-top: 3%;
+}
+
+.Con{
+    text-align: center;
+}
+
+.lineCon{
+    border: 1px solid red;
+    width: 3%;
+}
